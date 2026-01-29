@@ -1,5 +1,10 @@
   
-  
+  made chanegs 
+
+
+  1) theme.js
+  2) referreal lead
+  3)ndetailed lead
 now deeply analyze the AddLeadModal.ts file and all files inside the leadmanagement folder 
 
 and 
